@@ -7,6 +7,6 @@ sources:
     tables:
       - name: customers
       - name: orders
-      - name: items
+      - name: order_items
       - name: products
       - name: supplies 
