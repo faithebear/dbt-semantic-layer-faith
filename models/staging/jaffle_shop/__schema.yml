@@ -3,10 +3,10 @@ version: 2
 sources:
   - name: jaffle_shop
     database: raw
-    schema: jaffle_shop
+    schema: coffee_shop
     tables:
       - name: customers
       - name: orders
-      - name: items
+      - name: order_items
       - name: products
       - name: supplies 
